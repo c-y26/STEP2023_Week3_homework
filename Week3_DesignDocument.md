@@ -1,4 +1,4 @@
-# Design Documen
+# Design Document
 
 ## 課題内容
 
